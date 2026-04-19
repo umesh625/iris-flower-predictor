@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Iris Flower Species Predictor
 # Data Science Certification Project
 
@@ -94,3 +95,7 @@ Then open your browser and go to: **http://localhost:8501**
 **[Umesh Shrestha ]**  
 Data Science Certification Project  
 [https://github.com/umesh625/iris-flower-predictor.git]
+=======
+# iris-flower-predictor
+this is the iris-flower predictor project 
+>>>>>>> f367af7b30f018455adb896d004f66202991d559
