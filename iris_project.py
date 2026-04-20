@@ -31,6 +31,7 @@ print("\n Dataset Shape (rows, columns):", df.shape)
 
 print("\n Data Types:")
 print(df.dtypes)
+
 print("\n Summary Statistics:")
 print(df.describe())
 
